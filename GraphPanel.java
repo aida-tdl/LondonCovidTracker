@@ -26,7 +26,7 @@ import javafx.scene.layout.VBox;
  * This is the GraphPanel class. 
  * The class provides a graphical representation of COVID-19 data over time.
  *
- * @author Aida Tadlaoui(K23090130), Chen Xin Wang(K23008656), Isabella Landgrebe(K23001579), Saruta Kittipattananon (K23047468)
+ * @author Aïda Tadlaoui, Chen Xin Wang, Isabella Landgrebe and Saruta Kittipattananon 
  * @version 12
  */
 public class GraphPanel extends VBox {
