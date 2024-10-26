@@ -14,6 +14,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
+ * @author Aïda Tadlaoui, Saruta Kittipattananon, Chen Wang and Isabella Landgrebe
  * The StatisticsPanel class extends BorderPane to create a UI component that displays various COVID-19 related statistics.
  * It allows navigating through different statistics using navigation buttons.
  */
