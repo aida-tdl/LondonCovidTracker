@@ -3,6 +3,8 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.List;
 
+// @author Aïda Tadlaoui, Saruta Kittipattananon, Chen Wang and Isabella Landgrebe
+
 // unit test to test the statistics panel
 class StatisticsPanelTest {
 
