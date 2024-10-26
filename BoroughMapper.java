@@ -1,6 +1,8 @@
 import java.util.HashMap;
 import java.util.Map;
 
+// @author Aïda Tadlaoui, Saruta Kittipattananon, Chen Wang and Isabella Landgrebe
+
 public class BoroughMapper {
     public static final HashMap<String, String> boroughToPolygon = new HashMap<>(); // maps borough full names to their polygon keys
     private static final HashMap<String, String> polygonToBorough = new HashMap<>(); // maps polygon keys back to borough full names
