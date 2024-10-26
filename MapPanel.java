@@ -27,6 +27,8 @@ import javafx.geometry.Insets;
 import java.util.Map;
 import java.util.List;
 
+// @author Aïda Tadlaoui, Saruta Kittipattananon, Chen Wang and Isabella Landgrebe
+
 public class MapPanel extends Pane {
     private ImageView mapImageView; // holds the map image
     private HashMap<String, Polygon> boroughPolygons;
