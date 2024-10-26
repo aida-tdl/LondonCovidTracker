@@ -1,6 +1,7 @@
  
 
 /**
+ * @author Aïda Tadlaoui, Saruta Kittipattananon, Chen Wang and Isabella Landgrebe
  * Represents one record in the COVID dataset.
  * This is essentially one row in the data table. Each column
  * has a corresponding field.
