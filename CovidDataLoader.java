@@ -8,6 +8,8 @@ import java.util.Arrays;
 import com.opencsv.CSVReader;
 import java.net.URISyntaxException;
 
+// @author Aïda Tadlaoui, Saruta Kittipattananon, Chen Wang and Isabella Landgrebe
+
 public class CovidDataLoader {
  
     /** 
