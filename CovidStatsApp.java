@@ -21,6 +21,7 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+// @author Aïda Tadlaoui, Saruta Kittipattananon, Chen Wang and Isabella Landgrebe
 
 // Main class to create the JavaFX GUI application
 public class CovidStatsApp extends Application {
